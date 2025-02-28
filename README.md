@@ -2,7 +2,7 @@
 
 由于本人精力有限，仅修复了该模组汉化中一键整理按钮的汉化问题
 效果如图
-![示例图片](https://example.com/image.png)
+![示例图片](https://github.com/JingYin233/Inventory-Profiles-Next/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-01%20004420.png)
 
 
 
