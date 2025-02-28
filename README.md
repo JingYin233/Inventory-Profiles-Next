@@ -2,7 +2,8 @@
 
 由于本人精力有限，仅修复了该模组汉化中一键整理按钮的汉化问题
 效果如图
-![Uploading 屏幕截图 2025-03-01 004420.png…]()
+![示例图片](https://example.com/image.png)
+
 
 
 如需在其他版本的该模组中修复该问题，请在该模组路径assets/inventoryprofilesnext/lang中找到zh_cn.json
